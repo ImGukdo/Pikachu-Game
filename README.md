@@ -10,4 +10,8 @@
 * 화면 오른쪽에 상태창이 표시가 된다.
 * 화면 아래쪽에 표시된 활동을 선택한다.
 * 선택한 활동에 따라 체력과 경험치, 점수가 변한다.
-* 선택한 활동에 따라 delay time이 주어진다.
+* 선택한 활동에 따라 delay time이 주어진다.   
+   
+### 시작화면   
+<img src="https://user-images.githubusercontent.com/85783104/125538305-fd093bce-c147-43bc-9afa-4ac1d8cb3aef.PNG" width="480px" height="320px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+### 게임화면
