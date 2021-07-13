@@ -324,6 +324,13 @@ if __name__ == '__main__' :
 
                 initial_mode = True  # 초기 화면으로 전환
                 game_mode = False
+                # 초기 캐릭터 값으로 초기화
+                hp_max = 30               
+                hp = 30                   
+                exp = 0
+                exp_max = 50              
+                lev = 1
+                score = 0
 
         pygame.display.update()
 
